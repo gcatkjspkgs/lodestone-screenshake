@@ -1,0 +1,9 @@
+{
+    "author": "squoshi",
+    "description": "Shakes players' cameras whenever an explosion happens",
+    
+    "versions": [8],
+    "modloaders": ["forge"],
+    "dependencies": ["mod:lodestone"],
+    "incompatibilities": []
+}
